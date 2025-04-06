@@ -1,3 +1,4 @@
+(icons/icon.png)
 # py-create
 
 ## About
