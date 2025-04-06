@@ -2,7 +2,7 @@
 
 ## About
 
-`py-create` is a repository for creating Python projects. This repository contains scripts and configurations to streamline the project creation process.
+`py-create` is a repository for creating Python projects and install dependencies in a clic
 
 ## Features
 
