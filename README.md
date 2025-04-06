@@ -16,10 +16,11 @@
 - Python 3.x
 - Shell
 
-# installation 
-`git clone https://github.com/Super-Code774/py-create/
+# Installation 
+```
+git clone https://github.com/Super-Code774/py-create/
 cd py-create
-`
+```
 
 ## Usage
 
