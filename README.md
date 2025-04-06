@@ -1,4 +1,4 @@
-(icons/icon.png)
+![](icons/icon.png)
 # py-create
 
 ## About
