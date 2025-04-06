@@ -27,3 +27,7 @@ rmdir icons
 
 To create a new Python project, run the following command:
 `sh py-create.sh`
+
+## Contrbution 
+
+Anyone can help this small project 
