@@ -20,6 +20,7 @@
 ```
 git clone https://github.com/Super-Code774/py-create/
 cd py-create
+rmdir icons
 ```
 
 ## Usage
